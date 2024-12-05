@@ -1,2 +1,2 @@
 # computer-vision-2024
-CV homework - regular tasks
+CV homework - regular tasks + projects
